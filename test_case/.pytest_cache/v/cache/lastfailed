@@ -1,0 +1,5 @@
+{
+  "test_one.py::LianXi::test_get_success": true,
+  "test_two.py::TestLogin::test_info": true,
+  "test_two.py::TestLogin::test_login": true
+}
